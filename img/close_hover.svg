@@ -1,0 +1,44 @@
+<svg width="28" height="27" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+
+ <g>
+  <title>background</title>
+  <rect fill="#ffffff" id="canvas_background" height="29" width="30" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+  <g id="svg_15">
+   <g id="svg_12">
+    <title transform="translate(-98824.8359375,0) ">background</title>
+    <rect x="-98825.835938" y="-1" width="582" height="402" id="svg_10" fill="#fff"/>
+    <g id="svg_9" display="none">
+     <rect id="svg_13" width="28" height="400" x="-98824.835938" y="0" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g id="svg_14">
+    <title transform="translate(-98824.8359375,0) ">Layer 1</title>
+    <g id="svg_7" stroke="null">
+     <path d="m-98376.455918,1.39239l-138.37987,138.37987l-138.37987,-138.37987l-60.22777,60.22776l138.37987,138.37987l-138.37987,138.37987l60.22777,60.22777l138.37987,-138.37987l138.37987,138.37987l60.22776,-60.22777l-138.37987,-138.37987l138.37987,-138.37987" fill="#1f7cdb" fill-rule="evenodd" id="svg_8" stroke="null"/>
+    </g>
+   </g>
+  </g>
+  <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+  <!-- Created with SVG Editor - http://github.com/mzalive/SVG Editor/ -->
+  <g stroke="null" id="svg_45">
+   <g stroke="null" transform="matrix(0.06626997735445436,0,0,0.06679226269172005,-37.533096282100075,-34.20616488245535) " id="svg_42">
+    <title stroke="null" transform="translate(-1.8402167558670044,-1.8258271217346191) translate(-102.72853088378906,0) translate(0,-118.48915100097656) translate(574.7102661132812,0) translate(0,633.8277587890625) ">background</title>
+    <rect stroke="null" x="469.141518" y="512.512781" width="582" height="402" id="svg_40" fill="#fff"/>
+    <g stroke="null" id="svg_39" display="none">
+     <rect stroke="null" id="svg_43" width="28" height="27" x="470.141518" y="513.512781" stroke-width="0" fill="url(#gridpattern)"/>
+    </g>
+   </g>
+   <g stroke="null" transform="matrix(0.06626997735445436,0,0,0.06679226269172005,-37.533096282100075,-34.20616488245535) " id="svg_44">
+    <title stroke="null" transform="translate(-1.8402167558670044,-1.8258271217346191) translate(-102.72853088378906,0) translate(0,-118.48915100097656) translate(574.7102661132812,0) translate(0,633.8277587890625) ">Layer 1</title>
+    <g stroke="null" id="svg_37">
+     <path stroke="null" d="m918.521538,514.905171l-138.37987,138.37987l-138.37987,-138.37987l-60.22777,60.22776l138.37987,138.37987l-138.37987,138.37987l60.22777,60.22777l138.37987,-138.37987l138.37987,138.37987l60.22776,-60.22777l-138.37987,-138.37987l138.37987,-138.37987" fill="#1f7cdb" fill-rule="evenodd" id="svg_38"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
